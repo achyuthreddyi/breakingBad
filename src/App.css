@@ -112,7 +112,7 @@ input[type='text'] {
   background-color: #333;
   color: white;
   padding: 20px;
-  transform: rotateX(180deg);
+  transform: rotateY(180deg);
 }
 
 .card li {
